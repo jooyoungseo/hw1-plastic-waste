@@ -98,6 +98,8 @@ Q1.  Plot, using histograms, the distribution of plastic waste per capita facete
 
 ```{r}
 # Your code below:
+library(tidyverse)
+
 ```
 
 
